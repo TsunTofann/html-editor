@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "html-editor": "apps/html-editor",
+    "html-editor-e2e": "apps/html-editor-e2e"
+  }
+}
